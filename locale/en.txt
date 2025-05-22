@@ -1,0 +1,130 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_C7B54FA0_D719_167A_41E8_AF94A1EDF6A5.source = http://twitter.com/loremipsum
+LinkBehaviour_C7B55FA0_D719_167A_41C6_AC688314434E.source = http://www.facebook.com/loremipsum
+LinkBehaviour_C7B6AFA0_D719_167A_41DF_0765A01A3567.source = http://www.facebook.com/loremipsum
+LinkBehaviour_C7B68FA0_D719_167A_41E7_AB553B1726BF.source = http://www.loremipsum.com
+LinkBehaviour_C7B6EFA0_D719_167A_41EA_4B368D360593.source = http://www.loremipsum.com
+LinkBehaviour_C7B6DFA0_D719_167A_41E2_9AFB24763F41.source = http://www.twitter.com/loremipsum
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_E624439C_F1B2_82AC_41B3_ADDA96604561.text = MONVALLE
+HotspotPanoramaOverlayTextImage_E853EC4C_F1B6_8593_41EB_48222F01E6F2.text = SHOW UNIT
+HotspotPanoramaOverlayTextImage_D5B9AE34_F5F1_9DDA_41E5_D4DF7C0D3ABC.text = Virtual Tour
+
+### Tooltip
+HotspotPanoramaOverlayArea_E14140D1_F6B1_865A_41EA_DA8525A48C92.toolTip = Dapur
+HotspotPanoramaOverlayArea_ECCCEF5F_F651_9A47_41C7_959CBC5383C0.toolTip = Fasad Depan
+HotspotPanoramaOverlayArea_D1772D11_F2B7_9FDB_41B6_DCB766C9470B.toolTip = Kamar Anak 1
+HotspotPanoramaOverlayArea_DE9A8D80_F2B0_9EBA_41ED_23284A4227D2.toolTip = Kamar Anak 2
+HotspotPanoramaOverlayArea_D392A4AF_F5F7_8EC6_41BA_89384F09E17D.toolTip = Kamar Lantai 1
+HotspotPanoramaOverlayArea_FD5E6FF3_EA34_BAF4_41E6_B67C61BC2F42.toolTip = Kamar Lantai 1
+HotspotPanoramaOverlayArea_DE48F39B_F2B0_8ACE_41E3_B7395E31EA47.toolTip = Kamar Utama
+HotspotPanoramaOverlayArea_DE8CCB81_F2B1_9ABB_41E7_F933992F625C.toolTip = Keluar Kamar
+HotspotPanoramaOverlayArea_C5498EB0_F251_9ADA_41D4_90F7367521A5.toolTip = Keluar Kamar
+HotspotPanoramaOverlayArea_C266EF24_F250_9BFA_41B8_45DDEF711153.toolTip = Keluar Kamar
+HotspotPanoramaOverlayArea_FDD2B217_EA35_A53C_41E8_BD311973DB27.toolTip = Keluar Kamar
+HotspotPanoramaOverlayArea_FF55167B_EA2C_ADF4_41DA_794D8C281278.toolTip = Kembali dalam
+HotspotPanoramaOverlayArea_DF088E2D_F2B0_BDCA_41EB_012DD3ADE7EB.toolTip = Lantai 1
+HotspotPanoramaOverlayArea_EC70E152_F650_865E_41D4_96EEE4BC7A91.toolTip = Lantai 2
+HotspotPanoramaOverlayArea_ED5670B8_F650_86CA_4199_529A095B1D27.toolTip = Lantai 2
+HotspotPanoramaOverlayArea_FF4BD2ED_EA2C_AAEC_41BD_8CA193E6F8A2.toolTip = Ruang Keluarga
+HotspotPanoramaOverlayArea_EF785B2A_F5B1_9BCE_41C5_90AAA0CE0123.toolTip = Ruang Keluarga
+HotspotPanoramaOverlayArea_FDAF2C3B_EA35_9D74_41E9_E19196DD7DF7.toolTip = Ruang Keluarga
+HotspotPanoramaOverlayArea_FC9E840A_EA34_AD15_41D9_710446799EC1.toolTip = Ruang Makan
+HotspotPanoramaOverlayArea_E17BDC2F_F6B0_BDC6_41BF_9BA4F4252405.toolTip = Ruang Makan
+HotspotPanoramaOverlayArea_FDD15DF1_EA34_9EF4_41EB_7384BBFCF29C.toolTip = Ruang Makan
+HotspotPanoramaOverlayArea_FCB9CA8B_EA35_6514_41E4_F5C080BA5A77.toolTip = Ruang Tamu
+HotspotPanoramaOverlayArea_D2302DA8_F5F7_9EC9_41E9_02BC9274F197.toolTip = Ruang Tamu
+HotspotPanoramaOverlayArea_D35C39B5_F5F0_86DA_41CB_AA910E54DF21.toolTip = Taman Belakang
+HotspotPanoramaOverlayArea_E11BD937_F6B1_87C7_41E0_4D347051BAAD.toolTip = Taman Belakang
+HotspotPanoramaOverlayArea_EF6D1DC7_F5B1_BE46_41CD_30141B7D53D4.toolTip = Taman Tengah
+
+## Media
+
+### Audio
+audiores_C274C373_D929_0EDE_41D0_7A76D95220B6.mp3Url = media/audio_C29D82A7_D92F_0E46_41E0_62409E429FF4_en.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_D0EC6721_F5F0_8BFB_41C9_68AA1533EE64.url = media/panorama_C3533AEB_D929_1FCE_41E9_F902E7105BB5_HS_deg989fz_en.webp
+imlevel_E9359117_F1B6_BFBC_417C_145088F57B37.url = media/panorama_C3533AEB_D929_1FCE_41E9_F902E7105BB5_HS_i11ts24e_en.webp
+imlevel_E8CD2209_F1B6_BD95_41C7_B7D1DDA539D7.url = media/panorama_C3533AEB_D929_1FCE_41E9_F902E7105BB5_HS_l8njy293_en.webp
+
+### Title
+album_F4E1B9CD_E5FD_672C_41D9_C19A33BF411E_0.label = BROSUR DEPAN LEBAR 8 DOBEL DPN
+album_C5DF5ACD_D719_FFCA_41E3_5EF1D92A01DA_0.label = BROSUR DEPAN LEBAR 8 DOBEL DPN
+panorama_D9BB34C5_F257_8EBB_41EA_7BD583EF4DDB.label = DAPUR
+panorama_C3533AEB_D929_1FCE_41E9_F902E7105BB5.label = FASAD MONVALLE
+panorama_D1701966_F250_8646_41EC_395B80965DAF.label = INNER GARDEN
+panorama_D1F24B6D_F2B1_FA4B_41E6_41F6785633BF.label = KAMAR LT 1
+album_C5DF5ACD_D719_FFCA_41E3_5EF1D92A01DA_5.label = MONVALLE GANA MAJA FIX UPDATE N
+album_C5DF5ACD_D719_FFCA_41E3_5EF1D92A01DA.label = Photo Album BROSUR DEPAN LEBAR 8 DOBEL DPN
+album_F4E1B9CD_E5FD_672C_41D9_C19A33BF411E.label = Photo Album BROSUR DEPAN LEBAR 8 DOBEL DPN
+album_F51A8A1A_E5F3_6534_41E4_8FA2A8545A8A.label = Photo Album MONVALLE GANA MAJA FIX UPDATE N
+album_F48A1672_E62C_EDF5_41E9_C1DD7DD93C5E.label = Photo Album render 1
+album_F58B3FF5_E633_BAFF_41E2_D69E8AAD9FA0.label = Photo Album render 2_Pool View (2)
+panorama_D0BEF3EB_F250_8A4F_41D5_82A7BE17EF4C.label = RUANG KELUARGA
+panorama_D169B2B9_F250_8ACA_41EE_9E20FB30AAE1.label = RUANG MAKAN
+panorama_DB615B76_F2F0_7A46_4188_41D6450F492C.label = RUANG TAMU
+photo_EC961D55_F5B7_BE5A_41E3_ADB18671F790.label = Ruang Keluarga
+photo_EC961D55_F5B7_BE5A_41E3_ADB18671F790.label = Ruang Keluarga
+photo_EED3BEE3_F5B7_BA7E_41D7_F63AFB4B0A91.label = Ruang Makan
+photo_EED3BEE3_F5B7_BA7E_41D7_F63AFB4B0A91.label = Ruang Makan
+photo_EED2906D_F5B7_864B_41C3_8DB3AC9F74E9.label = Ruang Tamu
+photo_EED2906D_F5B7_864B_41C3_8DB3AC9F74E9.label = Ruang Tamu
+panorama_C7098839_F253_85CB_41DE_E6187D1DE79B.label = TAMAN BELAKANG
+photo_EED2E362_F5B7_8A79_41ED_36E90E8C34F6.label = Taman Belakang
+photo_EED2E362_F5B7_8A79_41ED_36E90E8C34F6.label = Taman Belakang
+photo_EED2B1F8_F5B7_8649_41D0_48C99EF846C6.label = Taman Tengah
+photo_EED2B1F8_F5B7_8649_41D0_48C99EF846C6.label = Taman Tengah
+panorama_C70DDABA_F270_BACE_41E9_2608274F060C.label = kamar anak 1
+panorama_C66A5228_F273_85C9_41EC_C39F2E3B8377.label = kamar anak 2
+panorama_DD92E7A3_F2B0_8AFF_41A4_9974171A816A.label = kamar utama
+panorama_C7C0F6B6_F270_8AD9_41E1_80414708EDFE.label = lantai 2
+photo_F7EA7387_E62C_AB1C_41C0_2DD0C2206523.label = render 1
+photo_F7EA7387_E62C_AB1C_41C0_2DD0C2206523.label = render 1
+album_F48A1672_E62C_EDF5_41E9_C1DD7DD93C5E_0.label = render 1
+album_F58B3FF5_E633_BAFF_41E2_D69E8AAD9FA0_2.label = render 2_Pool View
+album_F58B3FF5_E633_BAFF_41E2_D69E8AAD9FA0_0.label = render 2_Pool View (2)
+album_F58B3FF5_E633_BAFF_41E2_D69E8AAD9FA0_1.label = render 2_Pool View (3)
+
+## Skin
+
+### Button
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = 360º VIEWS
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = BUTTON
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = CONTACT
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = CONTACT US
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = EXPLORE
+Button_727E644B_7DD2_675A_41A5_E1B24D4186E2.label = GO TO BUY 
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMATION
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = PHOTOALBUM
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = PHOTOALBUM
+
+### Image
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_en.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_en.png
+Image_727DA44B_7DD2_675A_4187_461ECAA80913.url = skin/Image_727DA44B_7DD2_675A_4187_461ECAA80913_en.jpg
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_en.jpg
+Image_C167F8EC_D72F_1BCA_41DF_F3EEB0D62E48.url = skin/Image_C167F8EC_D72F_1BCA_41DF_F3EEB0D62E48_en.png
+Image_C37558C0_D917_1A3A_41DA_C72EB7CDC870.url = skin/Image_C37558C0_D917_1A3A_41DA_C72EB7CDC870_en.png
+Image_CF0BD060_D739_0AFA_41E4_F785AF1E0C70.url = skin/Image_CF0BD060_D739_0AFA_41E4_F785AF1E0C70_en.png
+
+### Multiline Text
+HTMLText_727E544B_7DD2_675A_41D7_B13EDAF14E19.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.13vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.13vmin;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:5.42vmin;font-family:'Exo';"><B><I>The Arcona 340, is a 34’1” monohull sailboat designed by Stefan Qviberg. She was built by Arcona Yachts.</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.63vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';">Arcona 340's Performances:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Upwind sail area to displacementi: 26.25</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Downwind sail area to displacementi: 45.91</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Displacement-Length ratio (DLR)i: 156</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Ballast ratioi: 37 %</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Hull speedi: 7.60 knots</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';">Arcona 340's Auxiliary engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Engine(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Engine type: Inboard engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Engine: 20 HP</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Fuel type: Diesel</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Fuel tank capacity: 26.4 gal </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';">Arcona 340's Accommodation</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Cabin(s): 2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Berth(s) (min/max): 4 / 6</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Head(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Fresh water tank capacity: 34.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Water heater capacity: 5.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Holding tank capacity: 13.2 gal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Arcona uses resin infusion to create a light, strong hull and deck comprised of multiaxial rovings and vinylester resin with a Divinycell core. A galvanized steel framework in the base of the hull carries the loads generated by the rig and keel. All bulkheads are laminated to the hull and deck. The keel is a lead bulb bolted onto an epoxy-coated cast-iron fin. The keel-stepped mast is by Seldén. Standing rigging is wire.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">A nearly plumb bow and a fairly abrupt reverse transom both look sharp and maximize the boat’s sailing length. End-boom sheeting with traveler and mainsheet controls immediately forward of the helm—right where they belong—show this is a boat that means business on the racecourse.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:4.7vmin;font-family:'Roboto Black';">This is quite simply a nice boat, a sailor’s boat. Its quality construction, styling and many practical seagoing design features result in a smart and make for a fast, comfortable ride underway.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.15vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.15vmin;font-family:'Exo';"><B>$178,000</B></SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.628352490421456vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.63vw;font-family:'Exo';"><B><I>MARKETING GALLERY</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.149425287356322vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.15vw;font-family:'Arial Black', Gadget, sans-serif;"><B><I>CITRALAND PALEMBANG</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2452107279693487vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.25vw;font-family:'Roboto Black';">Jl. Mayjen Yusuf Singedekane, Kel. Keramasan Kec. Kertapati, Palembang, Keramasan, Kec. Kertapati, Kota Palembang, Sumatera Selatan 30259</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Segoe UI Semibold';">TEL | +62 711 620 888</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Segoe UI Semibold';">PHONE | 0888 0807 6888</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Segoe UI Semibold';">IG | CITRALANDPALEMBANG</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Segoe UI Semibold';">WEB | CITRALANDPALEMBANG.COM</SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 6px rgba(0,0,0,0.63);text-align:left;font-size:25.99px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:25.99px;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 6px rgba(0,0,0,0.63);text-align:left;font-size:14.515px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#40bbff;font-size:14.52px;font-family:'Exo';"><B><I>BOAT MODEL</I></B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = MONVALLE
