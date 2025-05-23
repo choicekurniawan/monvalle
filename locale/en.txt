@@ -48,7 +48,7 @@ HotspotPanoramaOverlayArea_EF6D1DC7_F5B1_BE46_41CD_30141B7D53D4.toolTip = Taman 
 ## Media
 
 ### Audio
-audiores_C274C373_D929_0EDE_41D0_7A76D95220B6.mp3Url = media/audio_C29D82A7_D92F_0E46_41E0_62409E429FF4_en.mp3
+audiores_E2E2EC63_FB3B_C483_41E2_ABC4EE6507D7.mp3Url = media/audio_E27518F4_FB3D_CD85_41A4_A5F760A6B398_en.mp3
 
 ### Audio Subtitles
 
