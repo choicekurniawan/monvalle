@@ -1,4 +1,6 @@
 {
+ "theme_color": "#999999",
+ "background_color": "#999999",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +38,7 @@
    "sizes": "16x16"
   }
  ],
- "background_color": "#999999",
- "name": "MONVALLE",
- "start_url": "index.htm?installed=true",
  "display": "fullscreen",
- "theme_color": "#999999"
+ "name": "MONVALLE",
+ "start_url": "index.htm?installed=true"
 }
